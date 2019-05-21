@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Lebron James",
+    "img": "https://raw.githubusercontent.com/ignasioliver/AppMob/master/images/lebronjames.jpg"
+  },
+  {
+    "name": "James Harden",
+    "img": "https://raw.githubusercontent.com/ignasioliver/AppMob/master/images/jamesharden.jpg"
+  },
+  {
+    "name": "Kevin Durant",
+    "img": "https://raw.githubusercontent.com/ignasioliver/AppMob/master/images/kevindurant.jpg"
+  },
+  {
+    "name": "Derrick Rose",
+    "img": "https://raw.githubusercontent.com/ignasioliver/AppMob/master/images/derrickrose.jpg"
+  },
+  {
+    "name": "Russell Westbrook",
+    "img": "https://raw.githubusercontent.com/ignasioliver/AppMob/master/images/russellwestbrook.jpg"
+  },
+  {
+    "name": "Stephen Curry",
+    "img": "https://raw.githubusercontent.com/ignasioliver/AppMob/master/images/stephencurry.jpg"
+  },
+  {
+    "name": "Devin Booker",
+    "img": "https://raw.githubusercontent.com/ignasioliver/AppMob/master/images/devinbooker.jpg"
+  }
+]
